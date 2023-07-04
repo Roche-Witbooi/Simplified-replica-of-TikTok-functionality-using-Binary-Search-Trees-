@@ -1,0 +1,9 @@
+Create User1 is new
+Add User1 video5916.mpg 3444 my first video
+Add User1 video4079.mpg 8116 my second video 
+Create User2 has a dog
+Add User2 video5196.mpg 7949 dog plays with cat
+Add User2 video3891.mpg 2345 my dog eats cake
+Create User3 watches dog videos
+Add User3 video6080.mpg 1796 my favourite dog video
+Add User3 video732.mpg 7501 new dog training program
